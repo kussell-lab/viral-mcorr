@@ -1,4 +1,4 @@
-module github.com/apsteinberg/coronavirus-mcorr
+module github.com/kussell-lab/viral-mcorr
 
 go 1.16
 
