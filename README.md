@@ -1,5 +1,20 @@
 # viral-mcorr
-Using correlation profiles of synonymous substitutions to infer recombination rates from large-scale sequencing data in (+)ssRNA viruses
+viral-mcorr is a method for inferring recombination rates from 
+large-scale sequencing data in (+)ssRNA viruses using correlation profiles of synonymous substitutions.
+
+The viral-mcorr method is described in the following preprint:
+
+```bibtex
+@article {PreskaSteinberg2022SLCoV,
+	author = {Preska Steinberg, Asher and Silander, Olin K. and Kussell, Edo},
+	title = {Correlated substitutions reveal SARS-like coronaviruses recombine frequently with a diverse set of structured gene pools},
+	year = {2022},
+	doi = {10.1101/2022.08.26.505425},
+	URL = {https://www.biorxiv.org/content/early/2022/08/26/2022.08.26.505425},
+	journal = {bioRxiv}
+}
+```
+[https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1](https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1)
 
 # Requirements
 * Install `git` from [https://git-scm.com](https://git-scm.com/);
