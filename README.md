@@ -2,19 +2,22 @@
 viral-mcorr is a method for inferring recombination rates from 
 large-scale sequencing data in (+)ssRNA viruses using correlation profiles of synonymous substitutions.
 
-The viral-mcorr method is described in the following preprint:
+The viral-mcorr method is described in the following paper:
 
 ```bibtex
-@article {PreskaSteinberg2022SLCoV,
-	author = {Preska Steinberg, Asher and Silander, Olin K. and Kussell, Edo},
-	title = {Correlated substitutions reveal SARS-like coronaviruses recombine frequently with a diverse set of structured gene pools},
-	year = {2022},
-	doi = {10.1101/2022.08.26.505425},
-	URL = {https://www.biorxiv.org/content/early/2022/08/26/2022.08.26.505425},
-	journal = {bioRxiv}
+@article {doi:10.1073/pnas.2206945119,
+    author = {Asher Preska Steinberg  and Olin K. Silander  and Edo Kussell },
+    title = {Correlated substitutions reveal SARS-like coronaviruses recombine frequently with a diverse set of structured gene pools},
+    journal = {Proceedings of the National Academy of Sciences},
+    volume = {120},
+    number = {5},
+    pages = {e2206945119},
+    year = {2023},
+    doi = {10.1073/pnas.2206945119},
+    URL = {https://www.pnas.org/doi/full/10.1073/pnas.2206945119}
 }
 ```
-[https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1](https://www.biorxiv.org/content/10.1101/2022.08.26.505425v1)
+[https://www.pnas.org/doi/full/10.1073/pnas.2206945119](https://www.pnas.org/doi/full/10.1073/pnas.2206945119)
 
 # Requirements
 * Install `git` from [https://git-scm.com](https://git-scm.com/);
